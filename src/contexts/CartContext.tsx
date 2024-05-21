@@ -1,4 +1,4 @@
-import { Children, createContext, ReactNode, useState } from 'react'
+import {  createContext, ReactNode, useState } from 'react'
 import { ProductProps } from '../pages/home'
 
 interface CartContextData {
